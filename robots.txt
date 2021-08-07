@@ -6,6 +6,8 @@ User-agent: *
 Disallow: /references.html
 Disallow: /terms.html
 Disallow: /privacy.html
+Disallow: /read-edited.html
+Disallow: /index1.html
 Allow: /read.html
 Allow: /index.html
 
