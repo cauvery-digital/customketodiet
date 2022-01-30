@@ -11,7 +11,7 @@ Disallow: /index1.html
 Allow: /read.html
 Allow: /index.html
 
-Sitemap: https://ketodietplanreview.netlify.app/sitemap.xml
+Sitemap: https://weightlossdiethealthplan.netlify.app/sitemap.xml
 
 
 
