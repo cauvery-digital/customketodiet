@@ -11,7 +11,7 @@ Disallow: /index1.html
 Allow: /read.html
 Allow: /index.html
 
-Sitemap: https://ketodiet.atlashealthline.online/sitemap.xml
+Sitemap: https://ketodietplanreview.netlify.app/sitemap.xml
 
 
 
